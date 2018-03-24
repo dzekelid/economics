@@ -1,10 +1,10 @@
-title: Streamdata Gallery Economic
-url: economic.streamdata.gallery
-tag: Economic
+title: Streamdata Gallery Economics
+url: economics.streamdata.gallery
+tag: Economics
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
 github_user: streamdata-gallery
-github_repo: economic
+github_repo: economics
 github_branch: master
 collections:
   listings:
